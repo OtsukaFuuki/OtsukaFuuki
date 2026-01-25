@@ -1,6 +1,9 @@
-## 👋 hey there
+## 👋 Hey there
 24歳のエンジニアです。Next.jsをメインで開発。モダンな技術スタックを習得中。
 フロントエンド（React/Next.js）からバックエンド（Go/Nest.js）まで、フルスタックで開発できるエンジニアを目指しています！
+
+## 個人テックブログ
+https://tully-blog.com/
 
 ## 📊 GitHub ステータス
 
