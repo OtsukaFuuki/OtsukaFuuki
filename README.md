@@ -19,7 +19,7 @@ https://tully-blog.com
 
 
 ## 🛠 Tech Stack
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=nextjs,react,ts,go,nestjs,aws,docker,postgres,git,vscode,linux" />
 </p>
 <br>
