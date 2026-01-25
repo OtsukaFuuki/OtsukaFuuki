@@ -18,4 +18,4 @@ jobs:
         with:
           USERNAME: ${{ github.repository_owner }}
           # 好きなテーマを選べます（default, 2077, monokai, etc.）
-          THEME: material-palenight
+          THEME: radical
