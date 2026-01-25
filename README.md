@@ -1,16 +1,22 @@
-## 👋 Hey there
-24歳のエンジニアです。Next.jsをメインで開発。モダンな技術スタックを習得中。
+<h1 align="left">Hi 👋, I'm Fuuki Otsuka</h1>
+<h2 align="left">A passionate frontend developer from Japan🇯🇵</h3>
+
+#### 24歳のエンジニアです。Next.jsをメインで開発。モダンな技術スタックを習得中。
 フロントエンド（React/Next.js）からバックエンド（Go/Nest.js）まで、フルスタックで開発できるエンジニアを目指しています！
 
-## 個人テックブログ
+## MyTechBlog
 https://tully-blog.com
 
-## 📊 GitHub ステータス
+###
 
-<div align="center">
-  <img src="./profile-summary-card-output/default/0-profile-details.svg" width="500"height="500" />
-  <img src="./profile-summary-card-output/default/1-repos-per-language.svg" width="400" />
-</div>
+<p>&nbsp;<img align="center" src="./profile-summary-card-output/default/0-profile-details.svg" alt="otsukafuuki" width="100%"/></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=otsukafuuki&show_icons=true&locale=en&layout=compact" alt="otsukafuuki" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=otsukafuuki&show_icons=true&locale=en" alt="otsukafuuki" /></p>
+
+
+
 
 ## 🛠 スキルセット
 <p align="center">
@@ -22,3 +28,4 @@ https://tully-blog.com
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake.svg">
 </picture>
+
