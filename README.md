@@ -1,8 +1,8 @@
 <h1 align="left">Hi 👋, I'm Fuuki Otsuka</h1>
 <h2 align="left">A passionate frontend developer from Japan🇯🇵</h3>
 
-#### 24歳のエンジニアです。Next.jsをメインで開発。モダンな技術スタックを習得中。
-フロントエンド（React/Next.js）からバックエンド（Go/Nest.js）まで、フルスタックで開発できるエンジニアを目指しています！
+I am a **24-year-old engineer** primarily focused on **Next.js** development. Currently, 
+I am mastering modern tech stacks to evolve from a **Frontend (React/Next.js)** specialist into a comprehensive **Full-stack Developer** proficient in **Backend (Go/Nest.js)**.
 
 ## MyTechBlog
 https://tully-blog.com
@@ -18,7 +18,7 @@ https://tully-blog.com
 
 
 
-## 🛠 スキルセット
+## 🛠 Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nextjs,react,ts,go,nestjs,aws,docker,postgres,git,vscode,linux" />
 </p>
