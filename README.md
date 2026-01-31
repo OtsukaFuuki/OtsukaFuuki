@@ -15,6 +15,8 @@ https://tully-blog.com
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=otsukafuuki&show_icons=true&locale=en" alt="otsukafuuki" /></p> -->
 
+![Metrics](/github-metrics.svg)
+
 
 
 
