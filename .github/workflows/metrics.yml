@@ -1,10 +1,7 @@
 name: Metrics
 on:
-  # 1時間に1回自動で更新
   schedule: [{cron: "0 * * * *"}]
-  # 手動で実行できるようにする
   workflow_dispatch:
-  # mainブランチにプッシュされた時も実行
   push: {branches: ["master", "main"]}
 
 jobs:
@@ -15,34 +12,23 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # GitHubのSettingsで登録したSecret名
           token: ${{ secrets.METRICS_TOKEN }}
-
-          # 基本設定
           user: otsukafuuki
           template: classic
           base: header, metadata
           config_timezone: Asia/Tokyo
           
-          # 【言語統計】使用言語の割合
-          plugin_languages: yes
-          plugin_languages_ignored: html, css, jupyter notebook, scss
-          plugin_languages_details: percentage
-          plugin_languages_limit: 10
+          # 【重要】エラー回避のため、まずは主要な2つに絞ります
           
-          # 【実績ランク】ここを「すべて表示」に変更しました
+          # 1. 言語統計 (Next.js, Goなどの使用率)
+          plugin_languages: yes
+          plugin_languages_details: percentage
+          plugin_languages_ignored: html, css
+          
+          # 2. 実績ランク (A, B, Cなどのバッジ)
           plugin_achievements: yes
-          plugin_achievements_threshold: X     # すべてのランク（C, B, A...）を表示
-          plugin_achievements_display: detailed # 詳細なバッジ形式
-          plugin_achievements_secrets: yes      # プライベートの実績も計算に含める
-          plugin_achievements_limit: 0          # 表示数の制限を解除
-
-          # 【活動習慣】時間帯や習慣のランク
-          plugin_habits: yes
-          plugin_habits_from: 200
-          plugin_habits_days: 14
-          plugin_habits_facts: yes
-          plugin_habits_charts: no
-
-          # 表示の順番（上から：ヘッダー、言語、実績、習慣）
-          config_order: base.header, languages, achievements, habits
+          plugin_achievements_threshold: X
+          plugin_achievements_display: compact
+          
+          # 表示順の整理
+          config_order: base.header, languages, achievements
