@@ -17,6 +17,9 @@ https://tully-blog.com
 
 ![Metrics](/github-metrics.svg)
 
+<p align="left">
+  <img src="/github-metrics.svg" alt="Metrics" width="100%" />
+</p>
 
 
 
