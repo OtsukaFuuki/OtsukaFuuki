@@ -1,7 +1,6 @@
-<div align="left">
-	<img src="welcome-header.gif" alt="welcome to my github profile">
-	<br>
-</div>
+<p align="left" style="margin: 0px　padding: 0px;">
+  <img src="welcome-header.gif" alt="welcome to my github profile">
+</p>
 
 <h1 align="left">Hi 👋, I'm Fuuki Otsuka</h1>
 <h2 align="left">Frontend developer from Japan🇯🇵</h3>
