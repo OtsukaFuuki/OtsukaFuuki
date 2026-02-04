@@ -11,6 +11,9 @@ https://tully-blog.com
 
 <p>&nbsp;<img align="center" src="./profile-summary-card-output/default/0-profile-details.svg" alt="otsukafuuki" width="100%"/></p>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=otsukafuuki&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=otsukafuuki&show_icons=true&locale=en&layout=compact" alt="otsukafuuki" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=otsukafuuki&show_icons=true&locale=en" alt="otsukafuuki" /></p>
