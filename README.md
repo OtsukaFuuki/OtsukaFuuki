@@ -1,8 +1,8 @@
-<p align="left" style="margin: 0px　padding: 0px;">
+<!-- <p align="left" style="margin: 0px　padding: 0px;">
   <img src="welcome-header.gif" alt="welcome to my github profile">
-</p>
+</p> -->
 <h1 align="left">Hi 👋, I'm Fuuki Otsuka</h1>
-<h1 align="left">Frontend developer from Japan🇯🇵</h1>
+<h2 align="left">Frontend developer from Japan🇯🇵</h2>
 
 <img src="cat-typing.gif" alt="cat typing" align="right" width="150" hspace="10">
 
