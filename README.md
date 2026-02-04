@@ -1,9 +1,8 @@
 <p align="left" style="margin: 0px　padding: 0px;">
   <img src="welcome-header.gif" alt="welcome to my github profile">
 </p>
-
 <h1 align="left">Hi 👋, I'm Fuuki Otsuka</h1>
-<h2 align="left">Frontend developer from Japan🇯🇵</h3>
+<h1 align="left">Frontend developer from Japan🇯🇵</h1>
 
 I am a **24-year-old engineer** primarily focused on **Next.js** development. Currently, 
 I am mastering modern tech stacks to evolve from a **Frontend (React/Next.js)** specialist into a comprehensive **Full-stack Developer** proficient in **Backend (Go/Nest.js)**.
@@ -11,7 +10,7 @@ I am mastering modern tech stacks to evolve from a **Frontend (React/Next.js)** 
 ## MyTechBlog
 https://tully-blog.com
 
-###
+##
 
 <p>&nbsp;<img align="center" src="./profile-summary-card-output/default/0-profile-details.svg" alt="otsukafuuki" width="100%"/></p>
 
