@@ -23,7 +23,7 @@
   <h4>Click here 👇</h4>
     <br/>
     <a href="https://tully-blog.com">
-    <img src="2026-02-05 17.53の画像.jpeg">
+    <img src="img_blog.jpg">
   </a>
 
  <br/>
