@@ -30,7 +30,7 @@ https://tully-blog.com
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=otsukafuuki&show_icons=true&locale=en" alt="otsukafuuki" /></p> -->
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=otsukafuuki&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=otsukafuuki&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
