@@ -4,7 +4,7 @@
 <h1 align="left">Hi 👋, I'm Fuuki Otsuka</h1>
 <h2 align="left">Frontend developer from Japan🇯🇵</h2>
 
-<img src="cat-typing_circle.gif" alt="cat typing" align="right" width="150" hspace="10">
+<img src="cat-typing_circle.gif" alt="cat typing" align="right" width="150" marginRight="50" hspace="10">
 
 
 <p>
