@@ -18,13 +18,14 @@
 
 ## MyTechBlog
 <h3>
-  <a href="https://tully-blog.com">
     https://tully-blog.com
+  </h3>
+  <h4>Click here 👇</h4>
     <br/>
-    <br/>
+    <a href="https://tully-blog.com">
     <img src="2026-02-05 17.53の画像.jpeg">
   </a>
-</h3>
+
  <br/>
   
 ## My Status
