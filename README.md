@@ -20,7 +20,7 @@ https://tully-blog.com
 
 ##
 
-<p>&nbsp;<img align="center" src="./profile-summary-card-output/default/0-profile-details.svg" alt="otsukafuuki" width="100%"/></p>
+<p>&nbsp;<img align="center" src="./profile-summary-card-output/jolly/0-profile-details.svg" alt="otsukafuuki" width="100%"/></p>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=otsukafuuki&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
