@@ -18,10 +18,12 @@
 
 ## MyTechBlog
 <h3>
-  https://tully-blog.com
-  <br/>
-   <br/>
-  <img src="2026-02-05 17.53の画像.jpeg">
+  <a href="https://tully-blog.com">
+    https://tully-blog.com
+    <br/>
+    <br/>
+    <img src="2026-02-05 17.53の画像.jpeg">
+  </a>
 </h3>
  <br/>
   
