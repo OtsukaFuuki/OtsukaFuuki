@@ -39,7 +39,7 @@
 
 ## 🛠 Tech Stack
 <p align="left">
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,reactquery,tailwind,jotai,go,nestjs,rails,ruby,java,postgres,mysql,redis,aws,vercel,docker,terraform,jenkins,githubactions,linux,git,vscode,figma,postman,notion,prettier,eslint" /></p>
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,go,nestjs,rails,ruby,java,postgres,mysql,aws,vercel,docker,jenkins,git,vscode,figma,postman,notion" /></p>
 <br>
 
 ## 🐍 Contribution Graph
