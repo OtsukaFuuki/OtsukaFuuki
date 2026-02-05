@@ -21,7 +21,6 @@
     https://tully-blog.com
   </h3>
   <h4>Click here 👇</h4>
-    <br/>
     <a href="https://tully-blog.com">
     <img src="img_blog.jpg">
   </a>
