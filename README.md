@@ -4,7 +4,8 @@
 <h1 align="left">Hi 👋, I'm Fuuki Otsuka</h1>
 <h2 align="left">Frontend developer from Japan🇯🇵</h2>
 
-<img src="cat-typing.gif" alt="cat typing" align="right" width="150" hspace="10">
+<img src="cat-typing.gif_circle" alt="cat typing" align="right" width="150" hspace="10">
+
 
 <p>
   I am a <b>24-year-old engineer</b> primarily focused on <b>Next.js</b> development. Currently, <br/><br/>
