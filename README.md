@@ -8,7 +8,7 @@
 
 
 <p>
-  I am a <b>24-year-old engineer</b> primarily focused on <b>Next.js</b> development. Currently, <br/><br/>
+  I am a <b>25-year-old engineer</b> primarily focused on <b>Next.js</b> development. Currently, <br/><br/>
   I am mastering modern tech stacks to evolve from a <b>Frontend (React/Next.js)</b> <br/><br/>
   specialist into a comprehensive <b>Full-stack Developer</b> proficient in <b>Backend (Go/Nest.js)</b>.
 </p>
