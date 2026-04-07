@@ -47,10 +47,9 @@
 <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,go,nestjs,rails,ruby,java,postgres,mysql,aws,vercel,docker,jenkins,git,vscode,figma,postman,notion" /></p>
 <br>
 
-## 🐍 Contribution Graph
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake.svg">
-</picture>
+</picture> -->
 
