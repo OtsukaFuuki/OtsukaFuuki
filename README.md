@@ -44,7 +44,7 @@
 
 ## 🛠 Tech Stack
 <p align="left">
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,go,nestjs,rails,ruby,java,postgres,mysql,aws,vercel,docker,jenkins,git,vscode,figma,postman,notion" /></p>
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,go,nestjs,rails,ruby,java,dart,flutter,postgres,mysql,aws,vercel,docker,jenkins,git,vscode,figma,postman,notion" /></p>
 <br>
 
 <!-- <picture>
